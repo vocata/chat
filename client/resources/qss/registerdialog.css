@@ -1,0 +1,62 @@
+/* predialog 样式*/
+RegisterDialog {
+/*    border-image: url(:/predialog/background);*/
+    background-color: rgba(255, 255, 255, 255);
+}
+RegisterDialog>QPushButton#userIcon {
+    border-style: solid none none solid;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+    border-top-left-radius: 3px;
+}
+RegisterDialog>QPushButton#accountIcon {
+    border-style: solid none none solid;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+}
+RegisterDialog>QPushButton#passwdIcon {
+    border-style: solid none solid solid;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+    border-bottom-left-radius: 3px;
+}
+RegisterDialog>QLineEdit#userLineEdit {
+    font-size: 12px;
+    border-style: solid solid none none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+    border-top-right-radius: 3px;
+}
+RegisterDialog>QLineEdit#accountLineEdit {
+    font-size: 12px;
+    border-style: solid solid none none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+}
+RegisterDialog>QLineEdit#passwdLineEdit {
+    font-size: 12px;
+    border-style: solid solid solid none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(255, 255, 255, 255);
+    border-bottom-right-radius: 3px;
+}
+RegisterDialog>QPushButton#registerButton {
+    font-size: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(9, 163, 220, 255);
+    border-radius: 3px;
+    background-color: rgba(9, 163, 220, 255);
+    color: rgba(255, 255, 255, 255);
+}
+RegisterDialog>QPushButton#registerButton:hover {
+    border-color: rgba(60, 195, 245, 255);
+    background-color: rgba(60, 195, 245, 255);
+    color: rgba(255, 255, 255, 255);
+}

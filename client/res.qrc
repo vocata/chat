@@ -1,0 +1,113 @@
+<RCC>
+    <qresource prefix="/predialog">
+        <file alias="account">resources/predialog/Mobile_31.530791788856px_1181291_easyicon.net.png</file>
+        <file alias="user">resources/predialog/Profile_38.428152492669px_1181297_easyicon.net.png</file>
+        <file alias="passwd">resources/predialog/Shop_34.295754026354px_1181301_easyicon.net.png</file>
+        <file alias="background">resources/predialog/55c4ae64034f78f0c403a1f77a310a55b3191c56.jpg</file>
+    </qresource>
+    <qresource prefix="/chatwidget">
+        <file alias="emoji">resources/chatwidget/emoji_48px_1202904_easyicon.net.png</file>
+        <file alias="photo">resources/chatwidget/image_photo_52.14730878187px_1138951_easyicon.net.png</file>
+        <file alias="file">resources/chatwidget/folder_62.851817334576px_1202411_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/statewidget">
+        <file alias="offline">resources/statewidget/dot_48px_1174476_easyicon.net.png</file>
+        <file alias="online">resources/statewidget/dot_green_48px_1174477_easyicon.net.png</file>
+        <file alias="newmessage">resources/statewidget/Chat_flat_circle_48px_1113506_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/localwidget">
+        <file alias="offline">resources/localwidget/cancel_48px_1206674_easyicon.net.png</file>
+        <file alias="online">resources/localwidget/checked_48px_1206677_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="DejaVuSans">resources/fonts/DejaVuSans.ttf</file>
+    </qresource>
+    <qresource prefix="/emoji">
+        <file alias="1">resources/emoji/angry_24px_1203573_easyicon.net.png</file>
+        <file alias="2">resources/emoji/angry_24px_1203574_easyicon.net.png</file>
+        <file alias="3">resources/emoji/bored_24px_1203575_easyicon.net.png</file>
+        <file alias="4">resources/emoji/bored_24px_1203576_easyicon.net.png</file>
+        <file alias="5">resources/emoji/bored_24px_1203577_easyicon.net.png</file>
+        <file alias="6">resources/emoji/confused_24px_1203578_easyicon.net.png</file>
+        <file alias="7">resources/emoji/confused_24px_1203579_easyicon.net.png</file>
+        <file alias="8">resources/emoji/crying_24px_1203580_easyicon.net.png</file>
+        <file alias="9">resources/emoji/crying_24px_1203581_easyicon.net.png</file>
+        <file alias="10">resources/emoji/embarrassed_24px_1203582_easyicon.net.png</file>
+        <file alias="11">resources/emoji/emoticons_24px_1203583_easyicon.net.png</file>
+        <file alias="12">resources/emoji/happy_24px_1203584_easyicon.net.png</file>
+        <file alias="13">resources/emoji/happy_24px_1203585_easyicon.net.png</file>
+        <file alias="14">resources/emoji/happy_24px_1203586_easyicon.net.png</file>
+        <file alias="15">resources/emoji/happy_24px_1203587_easyicon.net.png</file>
+        <file alias="16">resources/emoji/happy_24px_1203588_easyicon.net.png</file>
+        <file alias="17">resources/emoji/ill_24px_1203589_easyicon.net.png</file>
+        <file alias="18">resources/emoji/in_love_24px_1203590_easyicon.net.png</file>
+        <file alias="19">resources/emoji/kissing_24px_1203591_easyicon.net.png</file>
+        <file alias="20">resources/emoji/mad_24px_1203592_easyicon.net.png</file>
+        <file alias="21">resources/emoji/nerd_24px_1203593_easyicon.net.png</file>
+        <file alias="22">resources/emoji/ninja_24px_1203594_easyicon.net.png</file>
+        <file alias="23">resources/emoji/quiet_24px_1203595_easyicon.net.png</file>
+        <file alias="24">resources/emoji/sad_24px_1203596_easyicon.net.png</file>
+        <file alias="25">resources/emoji/secret_24px_1203597_easyicon.net.png</file>
+        <file alias="26">resources/emoji/smart_24px_1203598_easyicon.net.png</file>
+        <file alias="27">resources/emoji/smile_24px_1203599_easyicon.net.png</file>
+        <file alias="28">resources/emoji/smiling_24px_1203600_easyicon.net.png</file>
+        <file alias="29">resources/emoji/surprised_24px_1203601_easyicon.net.png</file>
+        <file alias="30">resources/emoji/surprised_24px_1203602_easyicon.net.png</file>
+        <file alias="31">resources/emoji/suspicious_24px_1203603_easyicon.net.png</file>
+        <file alias="32">resources/emoji/suspicious_24px_1203604_easyicon.net.png</file>
+        <file alias="33">resources/emoji/tongue_out_24px_1203605_easyicon.net.png</file>
+        <file alias="34">resources/emoji/tongue_out_24px_1203606_easyicon.net.png</file>
+        <file alias="35">resources/emoji/unhappy_24px_1203607_easyicon.net.png</file>
+        <file alias="36">resources/emoji/wink_24px_1203608_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="new">resources/sound/new.wav</file>
+    </qresource>
+    <qresource prefix="/filetype">
+        <file alias="ai">resources/filetype/ai_100.57142857143px_1205600_easyicon.net.png</file>
+        <file alias="avi">resources/filetype/avi_100.57142857143px_1205602_easyicon.net.png</file>
+        <file alias="css">resources/filetype/css_100.57142857143px_1205604_easyicon.net.png</file>
+        <file alias="csv">resources/filetype/csv_100.57142857143px_1205605_easyicon.net.png</file>
+        <file alias="dbf">resources/filetype/dbf_100.57142857143px_1205606_easyicon.net.png</file>
+        <file alias="doc,docx">resources/filetype/doc_100.57142857143px_1205607_easyicon.net.png</file>
+        <file alias="dwg">resources/filetype/dwg_100.57142857143px_1205609_easyicon.net.png</file>
+        <file alias="exe">resources/filetype/exe_100.57142857143px_1205610_easyicon.net.png</file>
+        <file alias="none">resources/filetype/file_100.57142857143px_1205611_easyicon.net.png</file>
+        <file alias="fla,flash">resources/filetype/fla_100.57142857143px_1205613_easyicon.net.png</file>
+        <file alias="html,htm">resources/filetype/html_100.57142857143px_1205615_easyicon.net.png</file>
+        <file alias="iso">resources/filetype/iso_100.57142857143px_1205618_easyicon.net.png</file>
+        <file alias="js">resources/filetype/javascript_100.57142857143px_1205619_easyicon.net.png</file>
+        <file alias="jpg,jpeg">resources/filetype/jpg_100.57142857143px_1205620_easyicon.net.png</file>
+        <file alias="json">resources/filetype/json_file_100.57142857143px_1205621_easyicon.net.png</file>
+        <file alias="mp3">resources/filetype/mp3_100.57142857143px_1205622_easyicon.net.png</file>
+        <file alias="mp4">resources/filetype/mp4_100.57142857143px_1205623_easyicon.net.png</file>
+        <file alias="pdf">resources/filetype/pdf_100.57142857143px_1205624_easyicon.net.png</file>
+        <file alias="png">resources/filetype/png_100.57142857143px_1205626_easyicon.net.png</file>
+        <file alias="ppt,pptx">resources/filetype/ppt_100.57142857143px_1205627_easyicon.net.png</file>
+        <file alias="psd">resources/filetype/psd_100.57142857143px_1205630_easyicon.net.png</file>
+        <file alias="rtf">resources/filetype/rtf_100.57142857143px_1205631_easyicon.net.png</file>
+        <file alias="svg">resources/filetype/svg_100.57142857143px_1205633_easyicon.net.png</file>
+        <file alias="txt">resources/filetype/txt_100.57142857143px_1205634_easyicon.net.png</file>
+        <file alias="xlsx">resources/filetype/xls_100.57142857143px_1205635_easyicon.net.png</file>
+        <file alias="xml">resources/filetype/xml_100.57142857143px_1205636_easyicon.net.png</file>
+        <file alias="rar,zip,7z,bz,bz2,bzip2,gzip,kz,tar,tbz2,tgz,zipx">resources/filetype/zip_100.57142857143px_1205638_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/messagewidget">
+        <file alias="cancel">resources/messagewidget/cancel_48px_1181743_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file alias="predialog">resources/qss/predialog.css</file>
+        <file alias="registerdialog">resources/qss/registerdialog.css</file>
+        <file alias="friendlistwidget">resources/qss/friendlistwidget.css</file>
+        <file alias="localwidget">resources/qss/localwidget.css</file>
+        <file alias="messagewidget">resources/qss/messagewidget.css</file>
+        <file alias="chatwidget">resources/qss/chatwidget.css</file>
+        <file alias="emojiwidget">resources/qss/emojiwidget.css</file>
+        <file alias="startwidget">resources/qss/startwidget.css</file>
+        <file alias="historywidget">resources/qss/historywidget.css</file>
+        <file alias="imageprogresswidget">resources/qss/imageprogresswidget.css</file>
+        <file alias="filemessagesentwidget">resources/qss/filemessagesentwidget.css</file>
+        <file alias="filemessagereceivedwidget">resources/qss/filemessagereceivedwidget.css</file>
+        <file alias="friendbutton">resources/qss/friendbutton.css</file>
+    </qresource>
+</RCC>

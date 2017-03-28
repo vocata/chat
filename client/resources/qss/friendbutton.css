@@ -1,0 +1,15 @@
+FriendButton {
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(20, 155, 118, 255);
+}
+FriendButton:hover {
+    background-color: rgba(11, 141, 106, 255);
+}
+FriendButton:checked {
+    background-color: rgba(22, 134, 104, 255);
+}
+FriendButton>QLabel {
+    color: rgba(255, 255, 255, 255);
+}

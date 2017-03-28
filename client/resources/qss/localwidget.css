@@ -1,0 +1,16 @@
+LocalWidget>QLabel#userLabel {
+    color: rgba(255, 255, 255, 255);
+}
+LocalWidget>QPushButton#stateIcon {
+    border-style: none;
+}
+LocalWidget>QPushButton#stateIcon:hover {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(180, 180, 180, 255);
+    border-radius: 3px;
+}
+LocalWidget>QPushButton#stateIcon:pressed {
+    border-color: rgba(20, 155, 118, 255);
+}
+

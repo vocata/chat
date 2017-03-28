@@ -1,0 +1,17 @@
+MessageWidget>StateWidget#stateWidget {
+    border-style: none;
+    background-color: rgba(245, 248, 252, 255);
+}
+MessageWidget>HistoryWidget#historyWidget {
+    border-style: solid none solid none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(245, 248, 252, 255);
+}
+MessageWidget>HistoryWidget #contentWidget {
+    background-color: rgba(245, 248, 252, 255);
+}
+MessageWidget>ChatWidget#chatWidget {
+    border-style: none;
+    background-color: rgba(245, 248, 252, 255);
+}

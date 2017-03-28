@@ -1,0 +1,47 @@
+FileMessageReceivedWidget>QPushButton#fileIcon {
+    border-style: none;
+}
+FileMessageReceivedWidget>QPushButton#downloadButton {
+    border-style: none;
+    text-align: left;
+    color: rgba(22, 134, 104, 255);
+}
+FileMessageReceivedWidget>QPushButton#downloadButton:hover {
+    text-decoration: underline;
+}
+FileMessageReceivedWidget>QPushButton#saveAsButton {
+    border-style: none;
+    text-align: left;
+    color: rgba(22, 134, 104, 255);
+}
+FileMessageReceivedWidget>QPushButton#saveAsButton:hover {
+    text-decoration: underline;
+}
+FileMessageReceivedWidget>QProgressBar#progressBar {
+    border: 1px solid rgba(77, 77, 77, 50);
+    border-radius: 2px;
+    text-align: center;
+}
+FileMessageReceivedWidget>QProgressBar#progressBar::chunk {
+    background-color: rgba(20, 155, 118, 255);
+    width: 1px;
+}
+FileMessageReceivedWidget>QPushButton#cancelButton {
+    border-style: none;
+}
+FileMessageReceivedWidget>QPushButton#openFileButton {
+    border-style: none;
+    text-align: left;
+    color: rgba(22, 134, 104, 255);
+}
+FileMessageReceivedWidget>QPushButton#openFileButton:hover {
+    text-decoration: underline;
+}
+FileMessageReceivedWidget>QPushButton#openDirButton {
+    border-style: none;
+    text-align: left;
+    color: rgba(22, 134, 104, 255);
+}
+FileMessageReceivedWidget>QPushButton#openDirButton:hover {
+    text-decoration: underline;
+}

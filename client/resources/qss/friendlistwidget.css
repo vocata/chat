@@ -1,0 +1,14 @@
+FriendListWidget>LocalWidget#localWidget {
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+    background-color: rgba(20, 155, 118, 255);
+}
+FriendListWidget>FriendWidget#friendScrollArea {
+    border-style: none;
+    border-width: 1px;
+    border-color: rgba(77, 77, 77, 50);
+}
+FriendListWidget>FriendWidget #contentWidget {
+    background-color: rgba(20, 155, 118, 255);
+}
