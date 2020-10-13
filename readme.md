@@ -5,8 +5,8 @@
 
 ## Screenshot
 <p align="center">
-    <img src="https://github.com/xueyuelei/skinScan/raw/master/pic/windows.png"/>
+    <img src="https://github.com/xueyuelei/chat/blob/master/pic/windows.png"/>
 </p>
 <p align="center">
-    <img src="https://github.com/xueyuelei/skinScan/raw/master/pic/linux.png"/>
+    <img src="https://github.com/xueyuelei/chat/blob/master/pic/linux.png"/>
 </p>
